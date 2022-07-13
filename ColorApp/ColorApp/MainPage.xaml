@@ -9,8 +9,6 @@
                          Spacing="10"
                          WidthRequest="500">
 
-        <Entry Placeholder="Enter User Name" />
-        <Entry Placeholder="Enter Password" />
         <Image Source="csforar_logo.png"
                WidthRequest="300"/>
         <Label Text="Hello, World!" 
